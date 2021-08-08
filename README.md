@@ -1,2 +1,6 @@
 # bff-2
-YNTKTS
+#install bahan
+
+
+
+$github.com/rahmat-JR/bff-2
